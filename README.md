@@ -20,7 +20,7 @@ PPI数据集(Protein Protein Interation)
 ---
 [MIPS](http://mips.gsf.de/proj/ppi) ,[DIP](http://dip.doe-mbi.ucla.edu/) ,[BioGRID](http://wilab.inha.ac.kr/hpid/)
 
-[MPact](http://mips.gsf.de/genre/proj/mpact) ,[IntAct](http://www.ebi.ac.uk/intact/index.jsp) ,[BIND](http://www.bind.ca/) ,[MINT](http://mint.bio.uniroma2.it/mint/) ,[YIP](http://itolab.cb.k.u-tokyo.ac.jp/Y2H/) ,[PID](http://www.proteinlounge.com/inter_home.asp) ,[hp_DPI](http://dpi.nhri.org.tw/protein/hp/ORF/index.php) ,[DroID](http://www.droidb.org/) ,[Campy](http://proteome.wayne.edu/CampyDescription.html) ,[MPPI](http://genome.gsc.riken.go.jp/ppi/) ,[HPRD](http://www.hprd.org/) ,[BRITE](http://www.genome.jp/brite/)
+[MPact](http://mips.gsf.de/genre/proj/mpact) ,[IntAct](http://www.ebi.ac.uk/intact/index.jsp) ,[YIP](http://itolab.cb.k.u-tokyo.ac.jp/Y2H/) ,[DroID](http://www.droidb.org/) ,[Campy](http://proteome.wayne.edu/CampyDescription.html) ,[MPPI](http://genome.gsc.riken.go.jp/ppi/) ,[HPRD](http://www.hprd.org/)
 
 数据集
 ---
